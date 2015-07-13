@@ -16,7 +16,7 @@
             </div>
         </div>
 
-        <div class="what" tal:condition="request.application_url.startswith('http://cewekeren.com')">
+        <div class="what" tal:condition="request.application_url.startswith('http://cewekeren.com') or request.application_url.startswith('http://www.cewekeren.com')">
             <div class="listing">
                 Hei cewek keren! Apa kamu pelanggan Indosat? Kalo iya, kamu bisa mengakses Girl Effect secara gratis lewat <a href="http://internet.org">internet.org</a> hanya dengan meng-klik pilihan "Girl Effect" yang tersedia di dalam menu. Keren banget, kan?
             </div>
