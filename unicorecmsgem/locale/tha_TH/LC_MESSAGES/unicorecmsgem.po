@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE 1.0\n"
-"POT-Creation-Date: 2015-03-05 07:48+0200\n"
+"POT-Creation-Date: 2015-08-10 11:32+0200\n"
 "PO-Revision-Date: 2014-09-29 22:20+0200\n"
 "Last-Translator: TonyM <tonym@localhost>\n"
 "Language-Team: Language tha\n"
@@ -15,85 +15,85 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. Default: What Is The Girl Effect
-#: unicorecmsgem/templates/home.pt:33
+#: unicorecmsgem/templates/home.pt:26
 msgid "What Is The Girl Effect"
 msgstr ""
 
 #. Default: Learn more about The Girl Effect
-#: unicorecmsgem/templates/home.pt:40
+#: unicorecmsgem/templates/home.pt:29
 msgid "Learn more about The Girl Effect"
 msgstr ""
 
 #. Default: And spread the word
-#: unicorecmsgem/templates/home.pt:43
+#: unicorecmsgem/templates/home.pt:30
 msgid "And spread the word"
 msgstr ""
 
 #. Default: Latest
-#: unicorecmsgem/templates/home.pt:55
+#: unicorecmsgem/templates/home.pt:36
 #, fuzzy
 msgid "Latest"
 msgstr "Latest in tha_TH"
 
 #. Default: More
-#: unicorecmsgem/templates/home.pt:114
+#: unicorecmsgem/templates/home.pt:67
 msgid "More"
 msgstr ""
 
 #. Default: The Girl Declaration
-#: unicorecmsgem/templates/home.pt:125
+#: unicorecmsgem/templates/home.pt:72
 #, fuzzy
 msgid "The Girl Declaration"
 msgstr "Declaration in tha_TH"
 
 #. Default: Read It Now.
-#: unicorecmsgem/templates/home.pt:132
+#: unicorecmsgem/templates/home.pt:75
 msgid "Read It Now."
 msgstr ""
 
 #. Default: And share it with other girls
-#: unicorecmsgem/templates/home.pt:135
+#: unicorecmsgem/templates/home.pt:76
 msgid "And share it with other girls"
 msgstr ""
 
 #. Default: Contact
-#: unicorecmsgem/templates/home.pt:142
+#: unicorecmsgem/templates/home.pt:79
 #, fuzzy
 msgid "Contact"
 msgstr "Contact in tha_TH"
 
 #. Default: Terms &amp; Conditions
-#: unicorecmsgem/templates/home.pt:144
+#: unicorecmsgem/templates/home.pt:79
 msgid "Terms &amp; Conditions"
 msgstr ""
 
 #. Default: Tips on Use
-#: unicorecmsgem/templates/home.pt:146
+#: unicorecmsgem/templates/home.pt:79
 msgid "Tips on Use"
 msgstr ""
 
 #. Default: 1 search result for:
-#: unicorecmsgem/templates/search_results.pt:9
+#: unicorecmsgem/templates/search_results.pt:7
 msgid "1 search result for:"
 msgstr ""
 
 #. Default: search results for:
-#: unicorecmsgem/templates/search_results.pt:14
+#: unicorecmsgem/templates/search_results.pt:8
 msgid "search results for:"
 msgstr ""
 
 #. Default: in
-#: unicorecmsgem/templates/search_results.pt:30
+#: unicorecmsgem/templates/search_results.pt:15
 msgid "in"
 msgstr ""
 
 #. Default: No results found for
-#: unicorecmsgem/templates/search_results.pt:41
+#: unicorecmsgem/templates/search_results.pt:20
 msgid "No results found for"
 msgstr ""
 
 #. Default: No results found!
-#: unicorecmsgem/templates/search_results.pt:46
+#: unicorecmsgem/templates/search_results.pt:21
 msgid "No results found!"
 msgstr ""
 
@@ -104,16 +104,16 @@ msgstr ""
 
 #. Default: Home Page
 #. Used in sentence: "Go to the <dynamic element>"
-#: unicorecmsgem/templates/404.pt:13
+#: unicorecmsgem/templates/404.pt:10
 msgid "Home Page"
 msgstr ""
 
 #. Default: Go to the <dynamic element>
-#: unicorecmsgem/templates/404.pt:11
+#: unicorecmsgem/templates/404.pt:9
 msgid "Go to the"
 msgstr ""
 
-#: unicorecmsgem/templates/search_box.pt:9
+#: unicorecmsgem/templates/search_box.pt:8
 msgid "Search"
 msgstr ""
 
@@ -123,12 +123,12 @@ msgid "Previous"
 msgstr ""
 
 #. Default: Next
-#: unicorecmsgem/templates/paginator.pt:34
+#: unicorecmsgem/templates/paginator.pt:17
 msgid "Next"
 msgstr ""
 
 #. Default: Home
-#: unicorecmsgem/templates/base.pt:50
+#: unicorecmsgem/templates/base.pt:34
 msgid "Home"
 msgstr ""
 
