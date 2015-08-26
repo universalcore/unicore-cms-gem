@@ -82,7 +82,7 @@ class TestViews(UnicoreTestCase):
             '<a href="/about/">Jifunze zaidi kuhusu Girl Effect</a>'
             in resp.body)
 
-        resp = self.app.get('', status=200)
+        resp = self.app.get('/?_LOCALE_=hin_IN', status=200)
         self.assertTrue(
             'Translated by: Sajan'
             in resp.body)
