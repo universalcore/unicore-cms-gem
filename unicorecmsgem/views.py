@@ -1,5 +1,7 @@
+
+
 from pyramid.view import view_config
-from cms.views import CmsViews
+from cms.views.cms_views import CmsViews
 
 
 class GemCmsViews(CmsViews):
