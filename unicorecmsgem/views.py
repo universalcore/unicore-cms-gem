@@ -4,5 +4,5 @@ from cms.views import CmsViews
 
 class GemCmsViews(CmsViews):
 
-    def is_sojan_locale(self):
+    def is_sajan_locale(self):
         return self.locale in ['hin_IN', 'tam_IN']

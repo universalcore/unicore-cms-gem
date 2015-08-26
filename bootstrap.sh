@@ -4,7 +4,7 @@ set -e
 
 virtualenv ve
 source ve/bin/activate
-git pull
+#git pull
 pip install -e .
 pip install --upgrade elastic-git
 pip install -r requirements-dev.txt
