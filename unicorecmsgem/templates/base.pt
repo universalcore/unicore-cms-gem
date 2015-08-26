@@ -41,5 +41,9 @@
         <div metal:define-slot="content"></div>
     </div>
     <div id="base"><img alt='' src="/static/img/base.jpg" /></div><!--/BASE-->
+    <div tal:condition="is_sajan_locale()">
+          Translated by: Sajan
+
+    </div>
 </body>
 </html>
