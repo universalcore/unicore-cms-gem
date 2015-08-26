@@ -14,3 +14,6 @@ def main(global_config, **settings):
 
     config.override_asset('cms:templates/', 'unicorecmsgem:templates/')
     return config.make_wsgi_app()
+
+def includeme(config):
+    return config
