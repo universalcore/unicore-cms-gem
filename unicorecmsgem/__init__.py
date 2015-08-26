@@ -14,6 +14,3 @@ def main(global_config, **settings):
 
     config.override_asset('cms:templates/', 'unicorecmsgem:templates/')
     return config.make_wsgi_app()
-
-def is_sajan_locale():
-    return true
