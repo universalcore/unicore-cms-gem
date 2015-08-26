@@ -6,6 +6,7 @@ def main(global_config, **settings):
     """
     config = Configurator(settings=settings)
     config.add_translation_dirs('unicorecmsgem:locale')
+    config.include('unicorecmsgem')
     config.include('cms')
     config.configure_celery(global_config['__file__'])
     config.add_static_view('static', 'static', cache_max_age=3600)
