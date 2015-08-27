@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-08-12 16:13+0200\n"
+"POT-Creation-Date: 2015-08-27 11:56+0200\n"
 "PO-Revision-Date: 2015-08-11 07:38+0000\n"
 "Last-Translator: Indrani <indrani@praekelt.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,8 +17,20 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1439278728.976910\n"
 
-#: unicorecmsgem/templates/search_box.pt:8
-msgid "Search"
+#. Default: We can't find that page, sorry.
+#: unicorecmsgem/templates/404.pt:7
+msgid "We can't find that page, sorry."
+msgstr ""
+
+#. Default: Home Page
+#. Used in sentence: "Go to the <dynamic element>"
+#: unicorecmsgem/templates/404.pt:10
+msgid "Home Page"
+msgstr ""
+
+#. Default: Go to the <dynamic element>
+#: unicorecmsgem/templates/404.pt:9
+msgid "Go to the"
 msgstr ""
 
 #. Default: Home
@@ -26,29 +38,9 @@ msgstr ""
 msgid "Home"
 msgstr "ਹੋਮਪੇਜ"
 
-#. Default: 1 search result for:
-#: unicorecmsgem/templates/search_results.pt:7
-msgid "1 search result for:"
-msgstr ""
-
-#. Default: search results for:
-#: unicorecmsgem/templates/search_results.pt:8
-msgid "search results for:"
-msgstr ""
-
-#. Default: in
-#: unicorecmsgem/templates/search_results.pt:15
-msgid "in"
-msgstr ""
-
-#. Default: No results found for
-#: unicorecmsgem/templates/search_results.pt:20
-msgid "No results found for"
-msgstr ""
-
-#. Default: No results found!
-#: unicorecmsgem/templates/search_results.pt:21
-msgid "No results found!"
+#. Default: Translated by
+#: unicorecmsgem/templates/base.pt:46
+msgid "Translated by"
 msgstr ""
 
 #. Default: What Is The Girl Effect
@@ -116,18 +108,31 @@ msgstr ""
 msgid "Next"
 msgstr ""
 
-#. Default: We can't find that page, sorry.
-#: unicorecmsgem/templates/404.pt:7
-msgid "We can't find that page, sorry."
+#: unicorecmsgem/templates/search_box.pt:8
+msgid "Search"
 msgstr ""
 
-#. Default: Home Page
-#. Used in sentence: "Go to the <dynamic element>"
-#: unicorecmsgem/templates/404.pt:10
-msgid "Home Page"
+#. Default: 1 search result for:
+#: unicorecmsgem/templates/search_results.pt:7
+msgid "1 search result for:"
 msgstr ""
 
-#. Default: Go to the <dynamic element>
-#: unicorecmsgem/templates/404.pt:9
-msgid "Go to the"
+#. Default: search results for:
+#: unicorecmsgem/templates/search_results.pt:8
+msgid "search results for:"
+msgstr ""
+
+#. Default: in
+#: unicorecmsgem/templates/search_results.pt:15
+msgid "in"
+msgstr ""
+
+#. Default: No results found for
+#: unicorecmsgem/templates/search_results.pt:20
+msgid "No results found for"
+msgstr ""
+
+#. Default: No results found!
+#: unicorecmsgem/templates/search_results.pt:21
+msgid "No results found!"
 msgstr ""
