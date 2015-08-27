@@ -84,5 +84,5 @@ class TestViews(UnicoreTestCase):
 
         resp = self.app.get('/?_LOCALE_=hin_IN', status=200)
         self.assertTrue(
-            'Translated by: Sajan'
+            'Sajan द्वारा अनुवाद किया गया'
             in resp.body)

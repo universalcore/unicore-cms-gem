@@ -41,9 +41,9 @@
         <div metal:define-slot="content"></div>
     </div>
     <div id="base"><img alt='' src="/static/img/base.jpg" /></div><!--/BASE-->
-    <sajan tal:omit-tag="" tal:define="sajan_locales ['hin_IN', 'tha_TH']">
+    <sajan tal:omit-tag="" tal:define="sajan_locales ['ara_AE', 'ben_BD', 'fil_PH', 'fre_FR', 'hin_IN', 'mal_IN', 'nep_NP', 'por_PT', 'spa_CO', 'spa_MX', 'swa_TZ', 'tha_TH', 'urd_IN', 'urd_PK']">
     <div tal:condition="view.locale in sajan_locales">
-          <span i18n:translate="Translated by">Translated by</span>: <a href="http://www.sajan.com">Sajan</a>
+          <center><span i18n:translate="Translated by">Translated by</span>: <a id="sajan" href="http://www.sajan.com">Sajan</a></center>
 
     </div>
     </sajan>
