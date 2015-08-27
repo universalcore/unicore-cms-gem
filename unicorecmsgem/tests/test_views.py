@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 from datetime import datetime
 from pyramid import testing
 
@@ -80,4 +82,9 @@ class TestViews(UnicoreTestCase):
         resp = self.app.get('/?_LOCALE_=swh_TZ', status=200)
         self.assertTrue(
             '<a href="/about/">Jifunze zaidi kuhusu Girl Effect</a>'
+            in resp.body)
+
+        resp = self.app.get('/?_LOCALE_=hin_IN', status=200)
+        self.assertTrue(
+            'Sajan द्वारा अनुवाद किया गया'
             in resp.body)

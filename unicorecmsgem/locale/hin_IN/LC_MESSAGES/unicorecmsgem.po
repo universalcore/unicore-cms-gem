@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-08-10 11:32+0200\n"
+"POT-Creation-Date: 2015-08-27 12:53+0200\n"
 "PO-Revision-Date: 2014-12-02 05:01+0000\n"
 "Last-Translator: indrani <indrani@praekelt.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,6 +17,33 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1417496470.440380\n"
+
+#. Default: We can't find that page, sorry.
+#: unicorecmsgem/templates/404.pt:7
+msgid "We can't find that page, sorry."
+msgstr ""
+
+#. Default: Home Page
+#. Used in sentence: "Go to the <dynamic element>"
+#: unicorecmsgem/templates/404.pt:10
+#, fuzzy
+msgid "Home Page"
+msgstr "होम पेज"
+
+#. Default: Go to the <dynamic element>
+#: unicorecmsgem/templates/404.pt:9
+msgid "Go to the"
+msgstr ""
+
+#. Default: Home
+#: unicorecmsgem/templates/base.pt:34
+msgid "Home"
+msgstr "होम पेज"
+
+#. Default: Translated by
+#: unicorecmsgem/templates/base.pt:46
+msgid "Translated by"
+msgstr "Sajan द्वारा अनुवाद किया गया"
 
 #. Default: What Is The Girl Effect
 #: unicorecmsgem/templates/home.pt:26
@@ -73,6 +100,20 @@ msgstr "उपयोग की शर्तें"
 msgid "Tips on Use"
 msgstr "उपयोग संबंधी युक्तियाँ"
 
+#. Default: Previous
+#: unicorecmsgem/templates/paginator.pt:9
+msgid "Previous"
+msgstr ""
+
+#. Default: Next
+#: unicorecmsgem/templates/paginator.pt:17
+msgid "Next"
+msgstr ""
+
+#: unicorecmsgem/templates/search_box.pt:8
+msgid "Search"
+msgstr ""
+
 #. Default: 1 search result for:
 #: unicorecmsgem/templates/search_results.pt:7
 msgid "1 search result for:"
@@ -97,42 +138,6 @@ msgstr ""
 #: unicorecmsgem/templates/search_results.pt:21
 msgid "No results found!"
 msgstr ""
-
-#. Default: We can't find that page, sorry.
-#: unicorecmsgem/templates/404.pt:7
-msgid "We can't find that page, sorry."
-msgstr ""
-
-#. Default: Home Page
-#. Used in sentence: "Go to the <dynamic element>"
-#: unicorecmsgem/templates/404.pt:10
-#, fuzzy
-msgid "Home Page"
-msgstr "होम पेज"
-
-#. Default: Go to the <dynamic element>
-#: unicorecmsgem/templates/404.pt:9
-msgid "Go to the"
-msgstr ""
-
-#: unicorecmsgem/templates/search_box.pt:8
-msgid "Search"
-msgstr ""
-
-#. Default: Previous
-#: unicorecmsgem/templates/paginator.pt:9
-msgid "Previous"
-msgstr ""
-
-#. Default: Next
-#: unicorecmsgem/templates/paginator.pt:17
-msgid "Next"
-msgstr ""
-
-#. Default: Home
-#: unicorecmsgem/templates/base.pt:34
-msgid "Home"
-msgstr "होम पेज"
 
 #~ msgid "Title of story is placed here"
 #~ msgstr "Learn more about The Girl Effect"
