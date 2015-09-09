@@ -7,71 +7,70 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-09 09:29+0200\n"
-"PO-Revision-Date: 2014-12-02 05:01+0000\n"
-"Last-Translator: indrani <indrani@praekelt.com>\n"
+"PO-Revision-Date: 2015-09-08 07:50+0000\n"
+"Last-Translator: Indrani <indrani@praekelt.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: hin_IN\n"
+"Language: ara_AE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1417496470.440380\n"
+"X-POOTLE-MTIME: 1441698613.893761\n"
 
 #. Default: What Is The Girl Effect
 #: unicorecmsgem/templates/home.pt:26
 msgid "What Is The Girl Effect"
-msgstr "Girl Effect क्या है?"
+msgstr "ما هو Girl Effect؟"
 
 #. Default: Learn more about The Girl Effect
 #: unicorecmsgem/templates/home.pt:29
 msgid "Learn more about The Girl Effect"
-msgstr "The Girl Effect के बारे में और जानें"
+msgstr "تعرفي على المزيد عن Girl Effect"
 
 #. Default: And spread the word
 #: unicorecmsgem/templates/home.pt:30
 msgid "And spread the word"
-msgstr "इन शब्दों को फैल"
+msgstr "ومشاركتها مع الفتيات الأخريات"
 
 #. Default: Latest
 #: unicorecmsgem/templates/home.pt:36
 msgid "Latest"
-msgstr "नवीनतम"
+msgstr "الأحدث"
 
 #. Default: More
 #: unicorecmsgem/templates/home.pt:67
 msgid "More"
-msgstr "अधिक"
+msgstr "المزيد"
 
 #. Default: The Girl Declaration
 #: unicorecmsgem/templates/home.pt:72
 msgid "The Girl Declaration"
-msgstr "लड़कियों के घोषणा"
+msgstr "إعلان الفتاة"
 
 #. Default: Read It Now.
 #: unicorecmsgem/templates/home.pt:75
 msgid "Read It Now."
-msgstr "अभी पढ़ें"
+msgstr "قراءتها الآن"
 
 #. Default: And share it with other girls
 #: unicorecmsgem/templates/home.pt:76
 msgid "And share it with other girls"
-msgstr "और उसे अन्य लड़कियों के साथ साझा करें"
+msgstr "ومشاركتها مع الفتيات الأخريات"
 
 #. Default: Contact
 #: unicorecmsgem/templates/home.pt:79
 msgid "Contact"
-msgstr "संपर्क "
+msgstr "جهة الاتصال "
 
 #. Default: Terms &amp; Conditions
 #: unicorecmsgem/templates/home.pt:79
 msgid "Terms &amp; Conditions"
-msgstr "उपयोग की शर्तें"
+msgstr "شروط الاستخدام"
 
 #. Default: Tips on Use
 #: unicorecmsgem/templates/home.pt:79
 msgid "Tips on Use"
-msgstr "उपयोग संबंधी युक्तियाँ"
+msgstr "نصائح حول الاستخدام"
 
 #. Default: 1 search result for:
 #: unicorecmsgem/templates/search_results.pt:7
@@ -108,7 +107,7 @@ msgstr ""
 #: unicorecmsgem/templates/404.pt:10
 #, fuzzy
 msgid "Home Page"
-msgstr "होम पेज"
+msgstr "الرئيسية"
 
 #. Default: Go to the <dynamic element>
 #: unicorecmsgem/templates/404.pt:9
@@ -132,15 +131,9 @@ msgstr ""
 #. Default: Home
 #: unicorecmsgem/templates/base.pt:34
 msgid "Home"
-msgstr "होम पेज"
+msgstr "الرئيسية"
 
 #. Default: Translated By Sajan
 #: unicorecmsgem/templates/base.pt:46
 msgid "Translated by"
-msgstr "Sajan द्वारा अनुवाद किया गया"
-
-#~ msgid "Title of story is placed here"
-#~ msgstr "Learn more about The Girl Effect"
-
-#~ msgid "Sub-heading comes here"
-#~ msgstr "And spread the word"
+msgstr ""

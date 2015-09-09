@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE 1.0\n"
-"POT-Creation-Date: 2015-08-27 12:53+0200\n"
+"POT-Creation-Date: 2015-09-09 09:29+0200\n"
 "PO-Revision-Date: 2014-09-29 22:20+0200\n"
 "Last-Translator: TonyM <tonym@localhost>\n"
 "Language-Team: Language tha\n"
@@ -13,32 +13,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-
-#. Default: We can't find that page, sorry.
-#: unicorecmsgem/templates/404.pt:7
-msgid "We can't find that page, sorry."
-msgstr ""
-
-#. Default: Home Page
-#. Used in sentence: "Go to the <dynamic element>"
-#: unicorecmsgem/templates/404.pt:10
-msgid "Home Page"
-msgstr ""
-
-#. Default: Go to the <dynamic element>
-#: unicorecmsgem/templates/404.pt:9
-msgid "Go to the"
-msgstr ""
-
-#. Default: Home
-#: unicorecmsgem/templates/base.pt:34
-msgid "Home"
-msgstr ""
-
-#. Default: Translated by
-#: unicorecmsgem/templates/base.pt:46
-msgid "Translated by"
-msgstr "แปลโดย Sajan"
 
 #. Default: What Is The Girl Effect
 #: unicorecmsgem/templates/home.pt:26
@@ -98,20 +72,6 @@ msgstr ""
 msgid "Tips on Use"
 msgstr ""
 
-#. Default: Previous
-#: unicorecmsgem/templates/paginator.pt:9
-msgid "Previous"
-msgstr ""
-
-#. Default: Next
-#: unicorecmsgem/templates/paginator.pt:17
-msgid "Next"
-msgstr ""
-
-#: unicorecmsgem/templates/search_box.pt:8
-msgid "Search"
-msgstr ""
-
 #. Default: 1 search result for:
 #: unicorecmsgem/templates/search_results.pt:7
 msgid "1 search result for:"
@@ -136,6 +96,46 @@ msgstr ""
 #: unicorecmsgem/templates/search_results.pt:21
 msgid "No results found!"
 msgstr ""
+
+#. Default: We can't find that page, sorry.
+#: unicorecmsgem/templates/404.pt:7
+msgid "We can't find that page, sorry."
+msgstr ""
+
+#. Default: Home Page
+#. Used in sentence: "Go to the <dynamic element>"
+#: unicorecmsgem/templates/404.pt:10
+msgid "Home Page"
+msgstr ""
+
+#. Default: Go to the <dynamic element>
+#: unicorecmsgem/templates/404.pt:9
+msgid "Go to the"
+msgstr ""
+
+#: unicorecmsgem/templates/search_box.pt:8
+msgid "Search"
+msgstr ""
+
+#. Default: Previous
+#: unicorecmsgem/templates/paginator.pt:9
+msgid "Previous"
+msgstr ""
+
+#. Default: Next
+#: unicorecmsgem/templates/paginator.pt:17
+msgid "Next"
+msgstr ""
+
+#. Default: Home
+#: unicorecmsgem/templates/base.pt:34
+msgid "Home"
+msgstr ""
+
+#. Default: Translated By Sajan
+#: unicorecmsgem/templates/base.pt:46
+msgid "Translated by"
+msgstr "แปลโดย Sajan"
 
 #~ msgid "more"
 #~ msgstr "More in tha_TH"
