@@ -5,7 +5,7 @@
             ${category.title}
         </div>
 
-        <repeat tal:omit-tag="" tal:repeat="page pages[:20]">
+        <repeat tal:omit-tag="" tal:repeat="page paginator.get_page()" tal:condition="paginator">
 
             <div tal:attributes="{'class':'listing'} if page.image_host and page.image else {'class': 'listing no-pic'}">
                 <condition tal:omit-tag="" tal:condition="page.image_host and page.image">
@@ -19,5 +19,6 @@
             </div>
 
         </repeat>
+        <div metal:use-macro="view.paginator_template_category"></div>
     </div>
 </div>
