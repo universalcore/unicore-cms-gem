@@ -1,4 +1,4 @@
-# 
+#
 # SOME DESCRIPTIVE TITLE
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-12-01 08:15+0200\n"
+"POT-Creation-Date: 2016-05-03 23:36+0200\n"
 "PO-Revision-Date: 2016-05-03 09:59+0000\n"
 "Last-Translator: Indrani <indrani@praekelt.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,62 +18,123 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1462269596.882013\n"
 
+#. Default: We can't find that page, sorry.
+#: unicorecmsgem/templates/404.pt:7
+msgid "We can't find that page, sorry."
+msgstr ""
+
+#. Default: Home Page
+#. Used in sentence: "Go to the <dynamic element>"
+#: unicorecmsgem/templates/404.pt:10
+#, fuzzy
+msgid "Home Page"
+msgstr "Gida"
+
+#. Default: Go to the <dynamic element>
+#: unicorecmsgem/templates/404.pt:9
+msgid "Go to the"
+msgstr ""
+
+#. Default: Home
+#: unicorecmsgem/templates/base.pt:34
+msgid "Home"
+msgstr "Gida"
+
+#. Default: Translated By Sajan
+#: unicorecmsgem/templates/base.pt:46
+msgid "Translated by"
+msgstr ""
+
 #. Default: What Is The Girl Effect
-#: ./unicorecmsgem/templates/home.pt:10
+#: unicorecmsgem/templates/home.pt:26
 msgid "What Is The Girl Effect"
 msgstr "Mene ne Girl Effect?"
 
 #. Default: Learn more about The Girl Effect
-#: ./unicorecmsgem/templates/home.pt:17
+#: unicorecmsgem/templates/home.pt:29
 msgid "Learn more about The Girl Effect"
 msgstr "Ƙara koyo dangane da Girl Effect"
 
 #. Default: And spread the word
-#: ./unicorecmsgem/templates/home.pt:20
+#: unicorecmsgem/templates/home.pt:30
 msgid "And spread the word"
 msgstr "Da kuma yada kalmar."
 
 #. Default: Latest
-#: ./unicorecmsgem/templates/home.pt:32
+#: unicorecmsgem/templates/home.pt:36
 msgid "Latest"
 msgstr "Na kwana-kwanan nan"
 
 #. Default: More
-#: ./unicorecmsgem/templates/home.pt:77
+#: unicorecmsgem/templates/home.pt:67
 msgid "More"
 msgstr "Ƙari"
 
 #. Default: The Girl Declaration
-#: ./unicorecmsgem/templates/home.pt:88
+#: unicorecmsgem/templates/home.pt:72
 msgid "The Girl Declaration"
 msgstr "Shelar ‘Yan Mata"
 
 #. Default: Read It Now.
-#: ./unicorecmsgem/templates/home.pt:95
+#: unicorecmsgem/templates/home.pt:75
 msgid "Read It Now."
 msgstr "Karanta shi yanzu."
 
 #. Default: And share it with other girls
-#: ./unicorecmsgem/templates/home.pt:98
+#: unicorecmsgem/templates/home.pt:76
 msgid "And share it with other girls"
 msgstr "Kuma ki yi musayansa tare da sauran ‘yan mata"
 
 #. Default: Contact
-#: ./unicorecmsgem/templates/home.pt:105
+#: unicorecmsgem/templates/home.pt:79
 msgid "Contact"
 msgstr "Abokan hulɗa "
 
 #. Default: Terms &amp; Conditions
-#: ./unicorecmsgem/templates/home.pt:107
+#: unicorecmsgem/templates/home.pt:79
 msgid "Terms &amp; Conditions"
 msgstr "Ka’idojin Amfani "
 
 #. Default: Tips on Use
-#: ./unicorecmsgem/templates/home.pt:109
+#: unicorecmsgem/templates/home.pt:79
 msgid "Tips on Use"
 msgstr "Shawarwari kan Amfani"
 
-#. Default: Home
-#: ./unicorecmsgem/templates/base.pt:52
-msgid "Home"
-msgstr "Gida"
+#. Default: Previous
+#: unicorecmsgem/templates/paginator.pt:9
+msgid "Previous"
+msgstr ""
+
+#. Default: Next
+#: unicorecmsgem/templates/paginator.pt:17
+msgid "Next"
+msgstr ""
+
+#: unicorecmsgem/templates/search_box.pt:8
+msgid "Search"
+msgstr ""
+
+#. Default: 1 search result for:
+#: unicorecmsgem/templates/search_results.pt:7
+msgid "1 search result for:"
+msgstr ""
+
+#. Default: search results for:
+#: unicorecmsgem/templates/search_results.pt:8
+msgid "search results for:"
+msgstr ""
+
+#. Default: in
+#: unicorecmsgem/templates/search_results.pt:15
+msgid "in"
+msgstr ""
+
+#. Default: No results found for
+#: unicorecmsgem/templates/search_results.pt:20
+msgid "No results found for"
+msgstr ""
+
+#. Default: No results found!
+#: unicorecmsgem/templates/search_results.pt:21
+msgid "No results found!"
+msgstr ""
