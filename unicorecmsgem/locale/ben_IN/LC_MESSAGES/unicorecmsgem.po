@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-19 13:01+0200\n"
+"POT-Creation-Date: 2016-05-03 23:36+0200\n"
 "PO-Revision-Date: 2015-02-04 14:04+0000\n"
 "Last-Translator: Indrani <indrani@praekelt.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,6 +16,32 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1423058699.759011\n"
+
+#. Default: We can't find that page, sorry.
+#: unicorecmsgem/templates/404.pt:7
+msgid "We can't find that page, sorry."
+msgstr ""
+
+#. Default: Home Page
+#. Used in sentence: "Go to the <dynamic element>"
+#: unicorecmsgem/templates/404.pt:10
+msgid "Home Page"
+msgstr "হোমপেজে"
+
+#. Default: Go to the <dynamic element>
+#: unicorecmsgem/templates/404.pt:9
+msgid "Go to the"
+msgstr ""
+
+#. Default: Home
+#: unicorecmsgem/templates/base.pt:34
+msgid "Home"
+msgstr "হোমপেজে"
+
+#. Default: Translated By Sajan
+#: unicorecmsgem/templates/base.pt:46
+msgid "Translated by"
+msgstr "Sajan দ্বারা অনুবাদিত"
 
 #. Default: What Is The Girl Effect
 #: unicorecmsgem/templates/home.pt:26
@@ -72,6 +98,20 @@ msgstr "শর্তাবলী"
 msgid "Tips on Use"
 msgstr "ব্যবহার উপায়"
 
+#. Default: Previous
+#: unicorecmsgem/templates/paginator.pt:9
+msgid "Previous"
+msgstr ""
+
+#. Default: Next
+#: unicorecmsgem/templates/paginator.pt:17
+msgid "Next"
+msgstr ""
+
+#: unicorecmsgem/templates/search_box.pt:8
+msgid "Search"
+msgstr ""
+
 #. Default: 1 search result for:
 #: unicorecmsgem/templates/search_results.pt:7
 msgid "1 search result for:"
@@ -96,44 +136,3 @@ msgstr ""
 #: unicorecmsgem/templates/search_results.pt:21
 msgid "No results found!"
 msgstr ""
-
-#. Default: We can't find that page, sorry.
-#: unicorecmsgem/templates/404.pt:7
-msgid "We can't find that page, sorry."
-msgstr ""
-
-#. Default: Home Page
-#. Used in sentence: "Go to the <dynamic element>"
-#: unicorecmsgem/templates/404.pt:10
-#, fuzzy
-msgid "Home Page"
-msgstr "হোমপেজে"
-
-#. Default: Go to the <dynamic element>
-#: unicorecmsgem/templates/404.pt:9
-msgid "Go to the"
-msgstr ""
-
-#: unicorecmsgem/templates/search_box.pt:8
-msgid "Search"
-msgstr ""
-
-#. Default: Previous
-#: unicorecmsgem/templates/paginator.pt:9
-msgid "Previous"
-msgstr ""
-
-#. Default: Next
-#: unicorecmsgem/templates/paginator.pt:17
-msgid "Next"
-msgstr ""
-
-#. Default: Home
-#: unicorecmsgem/templates/base.pt:34
-msgid "Home"
-msgstr "হোমপেজে"
-
-#. Default: Translated By Sajan
-#: unicorecmsgem/templates/base.pt:46
-msgid "Translated by"
-msgstr "Sajan দ্বারা অনুবাদিত"
