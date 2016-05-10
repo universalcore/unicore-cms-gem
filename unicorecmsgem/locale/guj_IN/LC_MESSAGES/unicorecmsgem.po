@@ -25,7 +25,6 @@ msgstr ""
 #. Default: Home Page
 #. Used in sentence: "Go to the <dynamic element>"
 #: unicorecmsgem/templates/404.pt:10
-#, fuzzy
 msgid "Home Page"
 msgstr "હોમ"
 
